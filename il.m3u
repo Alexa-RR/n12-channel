@@ -4,7 +4,7 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 #EXTINF:-1 tvg-id="רשת 13" tvg-name="רשת" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/77/N13ch.svg/1200px-N13ch.svg.png" group-title="News",החדשות 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="קשת" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",N12
-http://192.168.1.101:6969/test.m3u8
+http://192.168.1.101:6969/test.m3u8 @@you will need to change this!
 #EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="כאן 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/765937/765937/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-language="English" tvg-logo="https://www.isramedia.net/images/cnn.svg" group-title="",CNN
